@@ -1,0 +1,7 @@
+string robotName
+string functionName
+float32 linearX
+float32 linearY
+float32 angularZ
+---
+string result
